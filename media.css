@@ -1,0 +1,458 @@
+@media only screen and (max-width:1200px) {
+    .mid2{
+     /* margin-left: 250px; */
+     width: 1400px;
+    }
+    .bt{
+        width: 1528px;
+    }
+    .team{
+        width: 1200px;
+    }
+    .brand{
+        width: 1400px;
+    }
+    .offer{
+        width: 1430px;
+    }
+   }
+   @media only screen and (max-width:900px){
+    .about{
+        font-size: 30px;
+        margin-left: 650px;
+        width: 200px;
+    }
+    .top1 p{
+        width: 760px;
+        justify-content: flex-end;
+    }
+    .mid{
+        margin-left: 430px;
+    }
+    .tx{
+        text-align: center;
+        margin-left: 180px;
+        font-size: 32px;
+        
+    }
+    .opt{
+        display: none;
+    }
+    .optb{
+        display: none;
+    }
+    /* .opt ul{
+        
+            display:none ;
+            gap: -61px;
+            padding: 0px;
+            font-size: 40px;
+            background-color: #181E4E;
+            color: white;
+            list-style: none;
+            padding: 30px;
+            line-height: 90px;
+            margin-left: 30px;
+            width: 1438px;
+            align-content: normal;
+            justify-content: space-evenly;
+            flex-direction: column;
+            align-items: flex-start;
+    } */
+   }
+@media only screen and (max-width:600px) {
+    .mid{
+        margin-left: 430px;
+       
+    }
+    .tx{
+        text-align: center;
+        margin-left: 180px;
+        font-size: 42px;
+        line-height: 40px;
+        
+    }
+
+    .mid2{
+        flex-direction: column;
+        align-items: center;
+    }
+    .lim img{
+        width: 902px;
+    }
+    .cim img{
+        width: 502px;
+    }
+    .rim img{
+        width: 902px;
+    }
+    .item1 img{
+        width: 1100px;
+
+    }
+    .item1 h4{
+        margin-top: 600px;
+        width: 330px;
+        font-size: 50px;
+    }
+    .item1 p{
+        margin-top: 780px;
+        font-size: 24px;
+    }
+
+    .item2 img{
+        width: 1100px;
+
+    }
+    
+
+
+
+    .item3 img{
+        width: 1100px;
+
+    }
+    .item3 h4{
+        margin-top: 660px;
+        width: 600px;
+        font-size: 50px;
+    }
+    .item3 p{
+        margin-top: 920px;
+        font-size: 24px;
+    }
+
+
+
+    .item4 {
+        width: 1100px;
+
+    }
+    .item4 h4{
+        width: 1000px;
+        margin-top: 16px;
+        font-size: 40px;
+    }
+    
+    .item4 h6 {
+        width: 250px;
+        font-size: 40px;
+    }
+    .item4 p {
+        width: 280px;
+        font-size: 30px;
+        margin-top: 280px;
+    }
+
+    .item5 img{
+        width: 1100px;
+
+    }
+    .item5 h4{
+        margin-top: 620px;
+        width: 700px;
+        font-size: 50px;
+    }
+    .item5 p{
+        margin-top: 900px;
+        font-size: 24px;
+    }
+
+
+
+    .item6 img{
+        width: 1100px;
+
+    }
+    .item6 h4{
+        margin-top: 600px;
+        width: 330px;
+        font-size: 50px;
+    }
+   
+    .item6 p{
+        margin-top: 780px;
+        font-size: 24px;
+    }
+
+
+
+    .item8 img{
+        width: 1100px;
+
+    }
+
+    .item8 h4{
+        margin-top: 400px;
+        width: 670px;
+        font-size: 50px;
+    }
+    .item8 h6{
+        margin-top: 670px;
+        width: 330px;
+        font-size: 50px;
+    }
+    .item8 p{
+        margin-top: 780px;
+        font-size: 24px;
+    }
+
+
+
+    .item9 img{
+        width: 1100px;
+
+    }
+    .item9 h4{
+        margin-top: 600px;
+        width: 330px;
+        font-size: 50px;
+    }
+    .item9 p{
+        margin-top: 780px;
+        font-size: 24px;
+    }
+
+
+    .item10 img{
+        width: 1100px;
+
+    }
+
+    .item10 h4{
+        margin-top: 600px;
+        width: 330px;
+        font-size: 50px;
+    }
+    .item10 p{
+        margin-top: 780px;
+        font-size: 24px;
+    }
+
+
+    .item11 img{
+        width: 1100px;
+
+    }
+    .item11 h4{
+        margin-top: 600px;
+        width: 330px;
+        font-size: 50px;
+    }
+    .item11 p{
+        margin-top: 780px;
+        font-size: 24px;
+    }
+
+
+    .item12{
+        width: 1100px;
+
+    }
+    .item7 img{
+        width: 1100px;
+
+    }
+    .item7 h4 {
+        width: 650px;
+        font-size: 40px;
+    }
+
+    .item7 h6 {
+        width: 250px;
+        font-size: 40px;
+        margin-top: 250px;
+    }
+    .item7 p {
+        width: 280px;
+        font-size: 30px;
+        margin-top: 300px;
+    }
+    .offer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 270px;
+
+        flex-wrap: wrap;
+    }
+    .seo p {
+        font-size: 30px;
+    }
+    .do h1{
+        font-size: 40px;
+    }
+    .do{
+        width: 40%;
+    }
+    .leftfoot{
+        width: 30%;
+    }
+    .leftfoot h1{
+        font-size: 40px;
+    }
+    
+    .midfoot{
+        width: 30%;
+    }
+    .midfoot h1{
+        font-size: 40px;
+    }
+    .leftmostfoot{
+        width: 30%;
+    }
+    .leftmostfoot h1{
+        font-size: 40px;
+
+    }
+    .latest p {
+        width: 360px;
+   
+}
+.blog p {
+    width: 355px;}
+
+
+
+.sm{
+    display: none;
+}
+.second p{
+    width: 1400px;
+}
+.book {
+    
+    width: 1450px;
+    height: 1326px;
+    margin-top: 300px;
+    flex-direction: column;
+    align-items: center;
+}
+.book img{
+   
+    width: 1000px;
+    margin-left: -280px;
+    height: 676px;
+    
+}
+.book h1 {
+   
+    font-size: 154px;}
+
+.book h2 {
+   
+    font-size: 154px;}
+    .book p{
+        font-size: 30px;
+    }
+    input {
+       
+        width: 500px;
+        height: 70px;
+        font-size: 24px;
+        
+    }
+    .par{
+        width: 1000px;
+        
+            display: flex;
+            gap: 100px;
+            justify-content: center;
+       
+    }
+    .inp {
+        width: 400px;
+        height: 50px;
+    }
+    .bt h6 {
+        width: 1000px;
+        font-size: 30px;
+    }
+    .bt p{
+        font-size: 20px;
+
+    }
+    .but {
+        width: 200px;
+        height: 40px;}
+        .bt{
+            width: 1700px;
+        }
+
+        .josh{
+            width: 198px
+        }
+
+
+        .josh h6{
+            font-size: 20px;
+        }
+        .team {
+           
+            margin-left: 400px;
+        
+            width: 750px;
+            gap: 200px;
+           
+            flex-wrap: wrap;
+}
+.josh h2 {
+    width: 250px;
+    font-size: 20px;
+}
+.melisa h2{
+    width: 250px;
+    font-size: 20px;
+
+}
+.melisa{
+    width: 198px
+}
+
+
+.melisa h6{
+    font-size: 20px;
+}
+.digio{
+    width: 200px;
+}
+.digio h2{
+    width: 280px;
+    font-size: 20px;
+}
+.digio h6{
+    width: 250px;
+    font-size: 20px;
+}
+.logo{
+    width: 250px;
+    margin-top: -9px;
+
+}
+.top{
+    align-items: center;
+    padding: 0px;
+}
+.sign {
+    width: 250px;
+    height: 50px;
+margin-top: -20px;}
+    .cnt img{
+        width: 250px;
+    }
+    .opt ul{
+        font-size: 20px;
+    }
+
+
+}
+@media only screen and (max-width:400px){
+    .top {
+        display: flex;
+        width: 1000px;
+        margin-left: 100px;
+        align-items: flex-end;
+        padding-top: 10px;
+        justify-content: center;
+    }
+}
