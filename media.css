@@ -455,4 +455,31 @@ margin-top: -20px;}
         padding-top: 10px;
         justify-content: center;
     }
+    .about{
+        font-size: 30px;
+        margin-left: 500px;
+        width: 200px;
+    }
+    .top1 p{
+        width: 760px;
+        justify-content: flex-end;
+    }
+    .mid{
+        margin-left: 230px;
+    }
+    .tx{
+        font-size: 50px;
+        margin-left: 70px;
+        width: 1080px;
+        line-height: 50px;
+        
+    }
+    .mid2 {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .grid{
+        align-items: flex-start;
+        margin-left: 30px;
+    }
 }
